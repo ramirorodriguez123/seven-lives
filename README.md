@@ -5,7 +5,7 @@
 
 
 
-**Interesting Curl Requests on Public API's
+**Interesting Curl Requests on Public API's**
 
 
 **1)** Hotstar seachbar suggestion : parameters : perPage = 0-100? , q = [Search String]
