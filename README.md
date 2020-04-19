@@ -4,12 +4,13 @@
 
 
 
-**Root Projects**
+##**Root Projects**
 
 
 
 
-**Interesting Curl Requests on Public API's**
+###**Interesting Curl Requests on Public API's**
+
 
 
 **1)** Hotstar seachbar suggestion : 
