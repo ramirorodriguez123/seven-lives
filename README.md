@@ -1,15 +1,15 @@
 
-# H1Seven-Lives
+# Seven-Lives
 
 
 
 
-## H2 **Root Projects**
+## **Root Projects**
 
 
 
 
-###**Interesting Curl Requests on Public API's**
+### **Interesting Curl Requests on Public API's**
 
 
 
