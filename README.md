@@ -1,10 +1,14 @@
-# seven-lives
-Root Projects
+# Seven-Lives
 
-Interesting Curl Requests on Public API's
+**Root Projects**
 
 
-1) Hotstar seachbar suggestion : parameters : perPage = 0-100? , q = [Search String]
+
+
+**Interesting Curl Requests on Public API's
+
+
+**1)** Hotstar seachbar suggestion : parameters : perPage = 0-100? , q = [Search String]
   
 curl "https://api.hotstar.com/s/v1/scout?q=A&perPage=10" -H "x-country-code: IN" -H "x-client-code: LR"  -H "x-platform-code: PCTV"  -v
 
