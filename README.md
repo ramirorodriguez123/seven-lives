@@ -42,4 +42,26 @@ parameters : username = [Enter Mobile Number to send OTP]
 
 
 
-**2)Hotstar Login OTP sender :**
+**2)Location API used by Trailheads.salesforce  :**
+
+
+Location API REST
+
+https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location
+
+**Result**
+jsonFeed({
+    "country": "IN",
+    "state": "KA",
+    "stateName": "Karnataka",
+    "zipcode": "560002",
+    "timezone": "Asia/Kolkata",
+    "latitude": "12.97210",
+    "longitude": "77.59330",
+    "city": "Bengaluru",
+    "continent": "AS"
+});
+
+
+
+**2)Location API used by Trailheads.salesforce  :**
