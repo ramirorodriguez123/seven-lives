@@ -42,7 +42,7 @@ parameters : username = [Enter Mobile Number to send OTP]
 
 
 
-**2)Location API used by Trailheads.salesforce  :**
+**3)Location API used by Trailheads.salesforce  :**
 
 
 Location API REST
@@ -64,8 +64,19 @@ jsonFeed({
 
 
 
-**2) Email Existence Verification   :**
+**4) Email Existence Verification   :**
 
 Parameters : email = [ENTER THE EMAILID HERE]
 
 curl "https://mailtester.com/index.php" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"  -H "Cookie: PHPSESSID=feba57g8423r9t0kmdef86cea0; _ga=GA1.2.316410199.1587823334;_gid=GA1.2.1019667429.1587823334; CMT_user=c142eb03-90f4-4725-91c0-929b7a416ab7;CMT_version=0.5.27b;__gads=ID=4dc8ce6cf488ff77:T=1587823341:S=ALNI_MbYJXtfHuctemPR6tA4rsdDVbqnuQ; CMT_start=1587823531314; interstitialCallsCount=7" --data "lang=en&email=cygnet-support%40nmsworks.co.in"
+
+
+
+
+
+**4) Swiggy Geolocation API   :**
+
+Parameters : latlng = [latitude,longitude]
+
+
+https://www.swiggy.com/dapi/misc/reverse-geocode?latlng=12.9605401%2C77.64589459999999
